@@ -8,7 +8,7 @@
 
 A beautiful, full-stack, interactive dashboard that visualizes global air quality measurements in real time and automatically detects and highlights pollution anomalies using the **Interquartile Range (IQR)** method.
 
-![Dashboard Preview](https://via.placeholder.com/1400x800.png?text=AQI+Dashboard+Live+Preview+-+Interactive+Map+%26+Anomaly+Detection)  
+![Dashboard Preview](http://192.168.0.7:8501)  
 *(Replace the link above with your actual screenshot)*
 
 ---
